@@ -3,6 +3,79 @@ title {
 }
 
 body {
-    background-color: bisque;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Slab', serif;
+    ;
 
+}
+
+.sec1 {
+    background-image: url(donation13.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: aqua;
+
+}
+
+.divs1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.heading1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.buttons {
+    font-size: 2em;
+    background-color: tomato;
+    text-decoration: none;
+    font-family: fantasy;
+    color: aliceblue;
+    padding: 5px;
+    font-weight: 200;
+    border-radius: 5px;
+}
+
+.heading2 {
+    font-size: 50px;
+    color: black;
+
+}
+
+.divs2 {
+    text-align: center;
+    color: black;
+}
+
+.divs3 {
+    display: inline-flex;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.boxes {
+    margin: 25px;
+    border: 35px solid whitesmoke;
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+
+#box {
+    border: 35px solid rgb(221, 147, 147);
+    background-color: rgba(175, 115, 115, 0.288);
+}
+
+input {
+    width: 50%;
+    border: none;
+    border-bottom: 2px solid red;
+    margin: 20px;
+    margin-top: 70px;
+    text-align: center;
 }
