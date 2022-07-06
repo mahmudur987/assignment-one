@@ -7,6 +7,8 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-family: 'Roboto Slab', serif;
     ;
+    width: auto;
+    overflow-x: hidden;
 
 }
 
