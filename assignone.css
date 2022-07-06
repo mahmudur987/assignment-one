@@ -33,7 +33,7 @@ body {
 }
 
 .buttons {
-    font-size: 2em;
+    font-size: 1.5em;
     background-color: tomato;
     text-decoration: none;
     font-family: fantasy;
@@ -149,4 +149,29 @@ h4 {
     height: 500px;
     width: 100%;
 
+}
+
+.sec5 {
+    text-align: center;
+    height: 200px;
+    margin-bottom: 300px;
+}
+
+.divs6 {
+    height: 100px;
+    width: 80%;
+    background-color: pink;
+    border: 1px solid gray;
+    margin: 5%;
+}
+
+footer {
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    color: brown;
+    position: ;
+    bottom: 0;
+    left: 0;
 }
