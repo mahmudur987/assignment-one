@@ -12,6 +12,7 @@ body {
     overflow-y: scroll;
     webkit-overflow-scrolling: touch;
 
+
 }
 
 .sec1 {
@@ -75,17 +76,20 @@ body {
     border: 35px solid whitesmoke;
     background-color: aliceblue;
     box-sizing: border-box;
+
+
 }
 
 #box {
     border: 35px solid rgb(221, 147, 147);
-    background-color: rgba(175, 115, 115, 0.288);
+    background-color: rgb(221, 147, 147);
+    box-shadow: 2px 2px 1px rgb(221, 147, 147);
 }
 
 input {
     width: 50%;
     border: none;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid black;
     margin: 20px;
     margin-top: 70px;
     text-align: center;
